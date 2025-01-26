@@ -14,4 +14,4 @@ Options in appsettings.json, should be self explanatory.
 
 ## Notes
 
-Limitation - the ToDO list assumes a single user.  Ideally the data should be keyed by some user identifier and persisted to storage.
+Limitation - the ToDo list assumes a single user.  Ideally the data should be keyed by some user identifier and persisted to storage.
